@@ -1,0 +1,15 @@
+{
+  "navigation": {
+    "logo": "/public/images/nlesc.png",
+    "title": "A potential design for eSTEP knowledge-base",
+    "intro": "We present a new way of knowledge management."
+  },
+  "legend": {
+		"nodeLabel":"an eTechnology",
+		"linkLabel":"Link between two similar eTechnologies",
+		"colorLabel":"Color is an automated grouping of eTechnologies"
+    },
+  "information": {
+    "title": "Information Pane"
+  }
+}

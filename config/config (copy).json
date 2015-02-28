@@ -1,0 +1,57 @@
+{
+  "navigation": {
+    title: "Parisa"
+  },
+  "type": "network",
+  "data":"data/VisualizationToolsTest2.csv",
+  "version": "1.0",
+  "logo": {
+    "file": "images/nlesc.png",
+    "link": "https://www.esciencecenter.nl/",
+    "text": "Netherlands eScience Center"
+  },
+  "text": {
+  	"title":"network of visualization tools available",
+  	"intro":"We present a new way of knowledge management.",
+  	"more":"<h3>Description</h3><p>This is our knowledge base, we discover similar eTechnologies given a certaion criterion and  ...</p> <p>Clicking or tapping a particular website in the interactive version will bring up information about the selected site and list all the sites it is connected to. Sites unconnected to the selected site will be hidden.</p> <h3>About this visualization</h3> <p>The data was collected from DBpedia and cleaned manually for now.</p> "
+  },
+  "legend": {
+  	"nodeLabel":"an eTechnology",
+  	"edgeLabel":"Link between two similar eTechnologies",
+  	"colorLabel":"Color is an automated grouping of eTechnologies"
+    },
+    "features": {
+      "search": true,
+      "hoverBehavior": "default",
+      "groupSelectorAttribute": false
+    },
+    "informationPanel": {
+      "groupByEdgeDirection": true
+    },
+    "sigma": {
+    	"drawingProperties":{
+  		"defaultLabelColor": "#000",
+  		"defaultLabelSize": 14,
+  		"defaultLabelBGColor": "#ddd",
+  		"defaultHoverLabelBGColor": "#002147",
+  		"defaultLabelHoverColor": "#fff",
+  		"labelThreshold": 1,
+  		"defaultEdgeType": "curve",
+  		"hoverFontStyle": "bold",
+  		"fontStyle": "bold",
+  		"activeFontStyle": "bold"
+  	},
+  	"graphProperties":{
+  		"minNodeSize": 5,
+  		"maxNodeSize": 25,
+  		"minEdgeSize": 0.2,
+  		"maxEdgeSize": 0.5
+  	},
+  	"mouseProperties":{
+  		"minRatio": 0.5,
+  		"maxRatio": 32,
+  		"zoomDelta":0.1,
+  		"zoomMultiply":5
+  	}
+  }
+};

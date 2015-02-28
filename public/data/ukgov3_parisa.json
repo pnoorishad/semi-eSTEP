@@ -1,0 +1,52 @@
+{
+    "nodes": [
+        {
+            "color": "#36e236", 
+            "label": "bis.gov.uk", 
+            "attributes": {
+
+                "Number of Pages": "3208"
+            }, 
+            "y": -405.0466, 
+            "x": -300.36734, 
+            "id": "bis.gov.uk", 
+            "size": 40
+        }, 
+        {
+            "color": "#36e236", 
+            "label": "cabinetoffice.gov.uk",
+            "attributes": {
+
+                "Number of Pages": "2696" 
+	    }, 
+            "y": 1347.514, 
+            "x": 1410.9159, 
+            "id": "cabinetoffice.gov.uk", 
+            "size": 86.40167
+        }, 
+        {
+            "color": "#36e236", 
+            "label": "charitycommission.gov.uk", 
+          "attributes": {
+
+                "Number of Pages": "2796" 
+	    }, 
+            "y": 1717.0464, 
+            "x": 2961.342, 
+            "id": "charitycommission.gov.uk", 
+            "size": 96.011154
+        } 
+     ], 
+    "edges": [
+      	    {
+	    "attributes": {
+                "id": "e113", 
+                "weight": "3.0"
+            }, 
+            "source": "bis.gov.uk", 
+            "label": "", 
+            "id": "e113", 
+            "target": "cabinetoffice.gov.uk"
+        }
+     ]
+}

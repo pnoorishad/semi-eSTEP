@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="stylesheets/style.css" />
+    <link rel="stylesheet" href="stylesheets/d3.css" />
+    <title> NLeSC Patty Knowledge-base </title>
+    <script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
+    <script src="http://d3js.org/d3.v3.js"></script>
+    <script src="lodash.js"></script>
+    <script src="javascripts/main.js"></script>
+    <script src="javascripts/test.js"></script>
+  </head>
+  <body>
+    <div id="navigation">
+      <img src="../public/images/nlesc.png" />
+      </h1>A potential design for eSTEP knowledge-base</h1>
+      <h3>Introduction</h3>
+      <p>This is our knowledge-base, in which the similarities between eTechnologies can be discovered.</p>
+      <p>Clicking or tapping a particular node in the interactive version will bring up information about the selected eTechnology and list all the similar etechnologies, given a certain criterion.</p>
+      <h3>About this visualization</h3><p>The data was collected from DBpedia and cleaned manually for this demo.</p>
+      <div id="legend">
+        <h3>Legend:</h3>
+        <dl>
+          <dt class="node"></dt>
+          <dd>An eTechnology</dd>
+          <dt class="link"></dt>
+          <dd>Link between two similar eTechnologies</dd>
+          <dt class="colours"></dt>
+          <dd>Color is an automated grouping of eTechnologies</dd>
+  		   </dl>
+      </div>
+      <div class="b1">
+      <form>
+        <div id="search" class="cf"><h3>Search:</h3>
+          <input type="text" name="search" value="Search by name" class="empty"/>
+          <select id="queryCriterion" onchange="queryhelper()">
+            <option>genre</option>
+            <option>license</option>
+            <option>OS-platform</option>
+            <option>programming language</option>
+          </select>
+        </div>
+      </form>
+      </div>
+      <div id="groupSelect" class="cf"><h3>Category Selector:</h3>
+      <div class="select">Select Category of eTechnologies</div>
+      <div class="list cf"></div>
+      </div>
+
+    </div>
+
+    <div id="canvas">
+      <div id="developercontainer">
+        <a href="https://www.esciencecenter.nl/"><div id="nlesc"><span>Netherlands eScience Center</span></div></a>
+      </div>
+      <div id="zoom">
+        <div class="z" rel="in"></div> <div class="z" rel="out"></div> <div class="z" rel="center"></div>
+	    </div>
+      <div id="copyright">
+        <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"></a>
+	    </div>
+
+    </div>
+
+    <div id="information">
+      <div class="appearance">
+        <div title="Close" class="left-close returntext"><div class="c cf"><span> Return to the full network</span></div></div>
+      </div>
+      <div id="attributepane">
+        <div class="headertext">
+          <span>Information Pane</span>
+        </div>
+        <div class="nodeattributes">
+          <div class="name"></div>
+          <div class="data"></div>
+          <div class="p">Connections:</div>
+          <div class="link">
+          <ul> comes later</ul>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+  </body>
+</html>

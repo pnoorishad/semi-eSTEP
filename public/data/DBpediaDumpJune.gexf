@@ -1,0 +1,3245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2015-01-19">
+    <creator>Gephi 0.8.1</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="frequency" title="frequency" type="integer"></attribute>
+      <attribute id="type" title="type" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="Waffles" label="Waffles">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-189.41975" y="366.4708" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="ModelCenter" label="ModelCenter">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-163.39464" y="-378.79132" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="CrimeView" label="CrimeView">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="364.24203" y="193.67093" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="DeskMate" label="DeskMate">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="376.86456" y="167.79091" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="AutoIt" label="AutoIt">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="206.2648" y="357.26114" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="CloudCompare" label="CloudCompare">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="333.74347" y="242.47882" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="APMonitor" label="APMonitor">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="62.16232" y="407.81924" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Gabedit" label="Gabedit">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="393.79565" y="-122.90506" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Grapheur" label="Grapheur">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="349.84494" y="-218.60739" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="TNTmips" label="TNTmips">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-380.66684" y="158.97623" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="FortMP" label="FortMP">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="411.52472" y="-28.776611" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="EICASLAB" label="EICASLAB">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="393.79565" y="122.90506" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="VMD" label="VMD">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-283.095" y="300.06317" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="TOMVIEW" label="TOMVIEW">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-368.64993" y="185.14294" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="GeoMedia" label="GeoMedia">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="387.65103" y="-141.09343" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Endrov" label="Endrov">
+        <attvalues>
+          <attvalue for="frequency" value="4"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="405.40137" y="76.35714" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="GNU Octave" label="GNU Octave">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="403.51486" y="-85.76973" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="UCSF Chimera" label="UCSF Chimera">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-296.74896" y="286.56714" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="dnAnalytics" label="dnAnalytics">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-99.79995" y="400.27573" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="ILWIS" label="ILWIS">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="276.0362" y="-306.56924" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Uplay" label="Uplay">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-290.0005" y="293.3946" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Kakadu" label="Kakadu">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="118.31483" y="-395.19904" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="OpenSim" label="OpenSim">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-283.095" y="-300.06317" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="ArcEditor" label="ArcEditor">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="109.08692" y="397.8451" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="OpenBabel" label="OpenBabel">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-246.3456" y="-330.89957" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="deegree" label="deegree">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-109.08692" y="397.8451" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Information_visualizationÃ‚Â " label="Information_visualizationÃ‚Â ">
+        <attvalues>
+          <attvalue for="frequency" value="8"></attvalue>
+          <attvalue for="type" value="; genre"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="222.66313" y="-347.2777" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="JOELib" label="JOELib">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="180.84108" y="-370.77917" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Dynamic Graph Library" label="Dynamic Graph Library">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="; genre"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="387.65103" y="141.09343" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Barco Creator" label="Barco Creator">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="214.52205" y="352.36484" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="wxFormBuilder" label="wxFormBuilder">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-14.397076" y="412.27832" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="The Grid Analysis and Display System" label="The Grid Analysis and Display System">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-322.10065" y="257.74377" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="mlpy" label="mlpy">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-52.65596" y="409.15527" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="GeoNetwork opensource" label="GeoNetwork opensource">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="384.26297" y="-150.07547" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="TeraChem" label="TeraChem">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-339.29532" y="234.64731" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Holsys One" label="Holsys One">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="309.76025" y="-272.4505" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Biosphere3D" label="Biosphere3D">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="246.3456" y="330.89957" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Bing Maps Platform" label="Bing Maps Platform">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="238.57921" y="336.54218" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Molecular_modellingÃ‚Â " label="Molecular_modellingÃ‚Â ">
+        <attvalues>
+          <attvalue for="frequency" value="36"></attvalue>
+          <attvalue for="type" value="; genre"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-180.84108" y="-370.77917" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="MeVisLab" label="MeVisLab">
+        <attvalues>
+          <attvalue for="frequency" value="8"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-90.45892" y="-402.4896" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="TransModeler" label="TransModeler">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-309.76025" y="272.4505" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Molecule_editorÃ‚Â " label="Molecule_editorÃ‚Â ">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="; genre"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-189.41975" y="-366.4708" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="SOFA software libraries" label="SOFA software libraries">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-401.40982" y="-95.13588" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="AutoCollage 2008" label="AutoCollage 2008">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="189.41975" y="366.4708" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="LIGPLOT" label="LIGPLOT">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="90.45892" y="-402.4896" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Medical_imagingÃ‚Â " label="Medical_imagingÃ‚Â ">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="; genre"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-99.79995" y="-400.27573" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Interactive_visualizationÃ‚Â " label="Interactive_visualizationÃ‚Â ">
+        <attvalues>
+          <attvalue for="frequency" value="12"></attvalue>
+          <attvalue for="type" value="; genre"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="206.2648" y="-357.26114" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="ALGLIB" label="ALGLIB">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="43.121086" y="410.26974" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="NumPy" label="NumPy">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-238.57921" y="-336.54218" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="ImageVis3D" label="ImageVis3D">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="253.97859" y="-325.07776" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="NETCAD" label="NETCAD">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-214.52205" y="-352.36484" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Mayavi" label="Mayavi">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-81.068924" y="-404.4855" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Quantum GIS" label="Quantum GIS">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-380.66684" y="-158.97623" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="AutoChem" label="AutoChem">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="180.84108" y="370.77917" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="PCPaint" label="PCPaint">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-328.01086" y="-250.17903" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="ilastik" label="ilastik">
+        <attvalues>
+          <attvalue for="frequency" value="4"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-71.63502" y="406.26236" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="GraphicsMagick" label="GraphicsMagick">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="328.01086" y="-250.17903" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="VisIt" label="VisIt">
+        <attvalues>
+          <attvalue for="frequency" value="4"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-253.97859" y="325.07776" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Social_networking_serviceÃ‚Â " label="Social_networking_serviceÃ‚Â ">
+        <attvalues>
+          <attvalue for="frequency" value="48"></attvalue>
+          <attvalue for="type" value="; genre"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-405.40137" y="76.35714" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Steam" label="Steam">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-396.54892" y="113.70857" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="FaceTime for iOS" label="FaceTime for iOS">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="410.74368" y="38.34457" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Microsoft Picture It" label="Microsoft Picture It">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-154.53632" y="-382.49078" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Maptitude for the Web" label="Maptitude for the Web">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-52.65596" y="-409.15527" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="TeleCAD-GIS" label="TeleCAD-GIS">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-359.63687" y="202.09401" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Geographic_information_systemÃ‚Â " label="Geographic_information_systemÃ‚Â ">
+        <attvalues>
+          <attvalue for="frequency" value="104"></attvalue>
+          <attvalue for="type" value="; genre"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="376.86456" y="-167.79091" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="MapDotNet" label="MapDotNet">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-4.7998915" y="-412.50168" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Speakeasy" label="Speakeasy">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-401.40982" y="95.13588" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Telligent Analytics" label="Telligent Analytics">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-354.837" y="210.40767" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Mapbender" label="Mapbender">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-33.562862" y="-411.16202" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="FastMall" label="FastMall">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="412.0829" y="19.19307" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="OpenJPEG" label="OpenJPEG">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-276.0362" y="-306.56924" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="NOCH" label="NOCH">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-222.66313" y="-347.2777" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="JOSM" label="JOSM">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="172.16447" y="-374.88675" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Seismic Unix" label="Seismic Unix">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-412.4179" y="-9.5991335" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="TabWorks" label="TabWorks">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-364.24203" y="193.67093" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="MATLAB" label="MATLAB">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="43.121086" y="-410.26974" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="CAPAWARE" label="CAPAWARE">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="268.8279" y="312.9093" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Apache Mahout" label="Apache Mahout">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="99.79995" y="400.27573" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Stewpa" label="Stewpa">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-393.79565" y="122.90506" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="SciPy" label="SciPy">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-408.5149" y="-57.413025" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Bhuvan" label="Bhuvan">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="222.66313" y="347.2777" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Graphical_user_interfaceÃ‚Â " label="Graphical_user_interfaceÃ‚Â ">
+        <attvalues>
+          <attvalue for="frequency" value="30"></attvalue>
+          <attvalue for="type" value="; genre"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="333.74347" y="-242.47882" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Tulip" label="Tulip">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-303.33673" y="279.58453" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="CoLocalizer Pro" label="CoLocalizer Pro">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="339.29532" y="234.64731" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Teradata Geospatial" label="Teradata Geospatial">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-333.74347" y="242.47882" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Jmol" label="Jmol">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="145.59431" y="-385.98312" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Microsoft MapPoint" label="Microsoft MapPoint">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-145.59431" y="-385.98312" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="AMESim" label="AMESim">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="52.65596" y="409.15527" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="wxGlade" label="wxGlade">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-4.7998915" y="412.50168" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="JMP" label="JMP">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="189.41975" y="-366.4708" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="SpatiaLite" label="SpatiaLite">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-403.51486" y="85.76973" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="ILNumerics.Net" label="ILNumerics.Net">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="283.095" y="-300.06317" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Calligra Suite" label="Calligra Suite">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="296.74896" y="286.56714" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="CitySurf Globe" label="CitySurf Globe">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="328.01086" y="250.17903" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="OpenEV" label="OpenEV">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-253.97859" y="-325.07776" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="STK" label="STK">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-407.06836" y="-66.9032" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Tent" label="Tent">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-344.66345" y="226.68872" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="RasMol" label="RasMol">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-387.65103" y="-141.09343" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Sqirlz Morph" label="Sqirlz Morph">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-399.08743" y="104.45051" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="GRASP" label="GRASP">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="399.08743" y="-104.45051" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Machine_learningÃ‚Â " label="Machine_learningÃ‚Â ">
+        <attvalues>
+          <attvalue for="frequency" value="26"></attvalue>
+          <attvalue for="type" value="; genre"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="33.562862" y="-411.16202" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Data_visualizationÃ‚Â " label="Data_visualizationÃ‚Â ">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="; genre"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="372.8582" y="176.51472" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="FEBio" label="FEBio">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="408.5149" y="57.413025" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="OpenImageIO" label="OpenImageIO">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-268.8279" y="-312.9093" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="OpenFeint/ Gree" label="OpenFeint/ Gree">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-261.47403" y="-319.07993" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="GNU Scientific Library" label="GNU Scientific Library">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="401.40982" y="-95.13588" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="FaceTime for Mac" label="FaceTime for Mac">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="409.74023" y="47.891766" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="ArcGIS" label="ArcGIS">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="118.31483" y="395.19904" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Chemistry Development Kit" label="Chemistry Development Kit">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="322.10065" y="257.74377" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="PyMOL" label="PyMOL">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-372.8582" y="-176.51472" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Image_processingÃ‚Â " label="Image_processingÃ‚Â ">
+        <attvalues>
+          <attvalue for="frequency" value="22"></attvalue>
+          <attvalue for="type" value="; genre"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="230.68362" y="-342.00256" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Google Earth" label="Google Earth">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="364.24203" y="-193.67093" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="E-Z Solve" label="E-Z Solve">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="390.82916" y="132.035" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Fiji Is Just ImageJ" label="Fiji Is Just ImageJ">
+        <attvalues>
+          <attvalue for="frequency" value="4"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="412.4179" y="-9.5991335" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Image SXM" label="Image SXM">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="268.8279" y="-312.9093" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="jLab" label="jLab">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-62.16232" y="407.81924" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="VisTrails" label="VisTrails">
+        <attvalues>
+          <attvalue for="frequency" value="4"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-246.3456" y="330.89957" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Rockstar Games Social Club" label="Rockstar Games Social Club">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-396.54892" y="-113.70857" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id=":Social_network_aggregationÃ‚Â " label=":Social_network_aggregationÃ‚Â ">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="; genre"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="33.562862" y="411.16202" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Maptitude" label="Maptitude">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-43.121086" y="-410.26974" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="TOMLAB" label="TOMLAB">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-376.86456" y="167.79091" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="List_of_numerical_analysis_softwareÃ‚Â " label="List_of_numerical_analysis_softwareÃ‚Â ">
+        <attvalues>
+          <attvalue for="frequency" value="110"></attvalue>
+          <attvalue for="type" value="; genre"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="71.63502" y="-406.26236" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Bing Maps" label="Bing Maps">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="230.68362" y="342.00256" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Marble" label="Marble">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-62.16232" y="-407.81924" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Feature Selection Toolbox" label="Feature Selection Toolbox">
+        <attvalues>
+          <attvalue for="frequency" value="4"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="412.5296" y="2.0973587E-12" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Diaspora" label="Diaspora">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="380.66684" y="158.97623" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Analytica" label="Analytica">
+        <attvalues>
+          <attvalue for="frequency" value="6"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="90.45892" y="402.4896" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="ICM-Browser" label="ICM-Browser">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="303.33673" y="-279.58453" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="SocialEngine" label="SocialEngine">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-407.06836" y="66.9032" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Origin" label="Origin">
+        <attvalues>
+          <attvalue for="frequency" value="4"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-322.10065" y="-257.74377" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="XML User Interface" label="XML User Interface">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-127.47866" y="392.339" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="ASTOS" label="ASTOS">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="71.63502" y="406.26236" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Meetro" label="Meetro">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-109.08692" y="-397.8451" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Site Recorder" label="Site Recorder">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-411.52472" y="28.776611" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="ImageVis3D Mobile" label="ImageVis3D Mobile">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="246.3456" y="-330.89957" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="BuddyPress" label="BuddyPress">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="253.97859" y="325.07776" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="VTK" label="VTK">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-276.0362" y="306.56924" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Sirius" label="Sirius">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-412.0829" y="19.19307" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="OptiY" label="OptiY">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-303.33673" y="-279.58453" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="RegioGraph" label="RegioGraph">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-390.82916" y="-132.035" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Weka" label="Weka">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-180.84108" y="370.77917" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="EarthBrowser" label="EarthBrowser">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="401.40982" y="95.13588" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Macrofocus TreeMap" label="Macrofocus TreeMap">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="23.986464" y="-411.83167" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Packard Bell Navigator" label="Packard Bell Navigator">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-339.29532" y="-234.64731" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Coot" label="Coot">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="354.837" y="210.40767" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Feature Analyst" label="Feature Analyst">
+        <attvalues>
+          <attvalue for="frequency" value="4"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="412.4179" y="9.5991335" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="FortSP" label="FortSP">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="410.74368" y="-38.34457" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="J2K-Codec" label="J2K-Codec">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="197.89586" y="-361.96396" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Gephi" label="Gephi">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="372.8582" y="-176.51472" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="TomSym" label="TomSym">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-316.01602" y="265.1689" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Visualization" label="Visualization">
+        <attvalues>
+          <attvalue for="frequency" value="8"></attvalue>
+          <attvalue for="type" value="; genre"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-238.57921" y="336.54218" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Wireclub" label="Wireclub">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-154.53632" y="382.49078" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="ScicosLab" label="ScicosLab">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-410.74368" y="-38.34457" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="QuantLib" label="QuantLib">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-376.86456" y="-167.79091" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="CoNTub" label="CoNTub">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="344.66345" y="226.68872" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Windows Live Spaces" label="Windows Live Spaces">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-163.39464" y="378.79132" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Vowpal Wabbit" label="Vowpal Wabbit">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-206.2648" y="357.26114" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Jacket" label="Jacket">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="163.39464" y="-378.79132" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="WP Symposium" label="WP Symposium">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-197.89586" y="361.96396" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="OpenXLive" label="OpenXLive">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-296.74896" y="-286.56714" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Image_analysisÃ‚Â " label="Image_analysisÃ‚Â ">
+        <attvalues>
+          <attvalue for="frequency" value="6"></attvalue>
+          <attvalue for="type" value="; genre"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="238.57921" y="-336.54218" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="SmartDO" label="SmartDO">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-410.74368" y="38.34457" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="STARMAD" label="STARMAD">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-405.40137" y="-76.35714" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Piranesi" label="Piranesi">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-359.63687" y="-202.09401" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="PicMaster" label="PicMaster">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-354.837" y="-210.40767" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="InstantAtlas" label="InstantAtlas">
+        <attvalues>
+          <attvalue for="frequency" value="4"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="214.52205" y="-352.36484" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Meurs Challenger" label="Meurs Challenger">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-127.47866" y="-392.339" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Sumo.fm" label="Sumo.fm">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-387.65103" y="141.09343" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="CEGUI" label="CEGUI">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="276.0362" y="306.56924" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="3D World Atlas" label="3D World Atlas">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="14.397076" y="412.27832" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="NASA World Wind" label="NASA World Wind">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-206.2648" y="-357.26114" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Scientific_visualizationÃ‚Â " label="Scientific_visualizationÃ‚Â ">
+        <attvalues>
+          <attvalue for="frequency" value="16"></attvalue>
+          <attvalue for="type" value="; genre"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-411.52472" y="-28.776611" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="IDRISI GIS and Image Processing" label="IDRISI GIS and Image Processing">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="296.74896" y="-286.56714" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="CPLEX" label="CPLEX">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="290.0005" y="293.3946" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="LaNet-vi" label="LaNet-vi">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="81.068924" y="-404.4855" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="MapBasic" label="MapBasic">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="4.7998915" y="-412.50168" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Genius" label="Genius">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="390.82916" y="-132.035" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Optimus" label="Optimus">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-309.76025" y="-272.4505" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Pattern_recognitionÃ‚Â " label="Pattern_recognitionÃ‚Â ">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="; genre"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-349.84494" y="-218.60739" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Snapchat" label="Snapchat">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-409.74023" y="47.891766" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="EnterNetica VolumePhoto SE" label="EnterNetica VolumePhoto SE">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="407.06836" y="66.9032" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="QuteMol" label="QuteMol">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-384.26297" y="-150.07547" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="uDig" label="uDig">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-23.986464" y="411.83167" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Molekel" label="Molekel">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-197.89586" y="-361.96396" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Ambivu 3D Workstation" label="Ambivu 3D Workstation">
+        <attvalues>
+          <attvalue for="frequency" value="4"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="81.068924" y="404.4855" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Volume_renderingÃ‚Â " label="Volume_renderingÃ‚Â ">
+        <attvalues>
+          <attvalue for="frequency" value="10"></attvalue>
+          <attvalue for="type" value="; genre"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-222.66313" y="347.2777" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="OpenWebGlobe SDK" label="OpenWebGlobe SDK">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-290.0005" y="-293.3946" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Potlatch" label="Potlatch">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-368.64993" y="-185.14294" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Manga Studio" label="Manga Studio">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="14.397076" y="-412.27832" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="MeshLab" label="MeshLab">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-118.31483" y="-395.19904" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Visualization_softwareÃ‚Â " label="Visualization_softwareÃ‚Â ">
+        <attvalues>
+          <attvalue for="frequency" value="4"></attvalue>
+          <attvalue for="type" value="; genre"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-230.68362" y="342.00256" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Graphics_softwareÃ‚Â " label="Graphics_softwareÃ‚Â ">
+        <attvalues>
+          <attvalue for="frequency" value="42"></attvalue>
+          <attvalue for="type" value="; genre"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="322.10065" y="-257.74377" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Vidalia" label="Vidalia">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-268.8279" y="312.9093" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="RemoteView" label="RemoteView">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-393.79565" y="-122.90506" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="XDrawChem" label="XDrawChem">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-145.59431" y="385.98312" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="gvSIG" label="gvSIG">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-81.068924" y="404.4855" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="TOMNET" label="TOMNET">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-372.8582" y="176.51472" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Bump" label="Bump">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="261.47403" y="319.07993" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="MAGMA" label="MAGMA">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="62.16232" y="-407.81924" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Chematica" label="Chematica">
+        <attvalues>
+          <attvalue for="frequency" value="6"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="316.01602" y="265.1689" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="FalconView" label="FalconView">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="411.52472" y="28.776611" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="PROPT" label="PROPT">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-333.74347" y="-242.47882" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="face2face" label="face2face">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-90.45892" y="402.4896" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="NetMiner" label="NetMiner">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-230.68362" y="-342.00256" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="ArcIMS" label="ArcIMS">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="127.47866" y="392.339" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="ArcSDE" label="ArcSDE">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="154.53632" y="382.49078" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Graphviz" label="Graphviz">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="316.01602" y="-265.1689" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="TerraFly" label="TerraFly">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-328.01086" y="250.17903" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="ArcView" label="ArcView">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="163.39464" y="378.79132" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="CERN Program Library" label="CERN Program Library">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="283.095" y="300.06317" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="PostGIS" label="PostGIS">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-364.24203" y="-193.67093" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="IGOR Pro" label="IGOR Pro">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="290.0005" y="-293.3946" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Drishti" label="Drishti">
+        <attvalues>
+          <attvalue for="frequency" value="4"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="384.26297" y="150.07547" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Earth3D" label="Earth3D">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="399.08743" y="104.45051" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="modeFRONTIER" label="modeFRONTIER">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-43.121086" y="410.26974" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Whitebox GAT" label="Whitebox GAT">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-172.16447" y="374.88675" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="GloNET" label="GloNET">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="368.64993" y="-185.14294" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="GraphicConverter" label="GraphicConverter">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="344.66345" y="-226.68872" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="CellProfiler" label="CellProfiler">
+        <attvalues>
+          <attvalue for="frequency" value="4"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="309.76025" y="272.4505" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Graph Visualization" label="Graph Visualization">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="; genre"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="359.63687" y="-202.09401" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Stykz" label="Stykz">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-390.82916" y="132.035" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="FireMonkey" label="FireMonkey">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="412.0829" y="-19.19307" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Graphical_user_interface_builderÃ‚Â " label="Graphical_user_interface_builderÃ‚Â ">
+        <attvalues>
+          <attvalue for="frequency" value="4"></attvalue>
+          <attvalue for="type" value="; genre"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="339.29532" y="-234.64731" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="MALLET" label="MALLET">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="52.65596" y="-409.15527" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="3D World Altals" label="3D World Altals">
+        <attvalues>
+          <attvalue for="frequency" value="1"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="4.7998915" y="412.50168" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Social Network Analysis" label="Social Network Analysis">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="; genre"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-408.5149" y="57.413025" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Sysquake" label="Sysquake">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-384.26297" y="150.07547" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Scilab" label="Scilab">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-412.0829" y="-19.19307" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="baudline" label="baudline">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-118.31483" y="395.19904" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="GeoServer" label="GeoServer">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="380.66684" y="-158.97623" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="ParaView" label="ParaView">
+        <attvalues>
+          <attvalue for="frequency" value="4"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-344.66345" y="-226.68872" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Friendica" label="Friendica">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="408.5149" y="-57.413025" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="scikit-learn" label="scikit-learn">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-33.562862" y="411.16202" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="AutoHotkey" label="AutoHotkey">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="197.89586" y="361.96396" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Molecular_graphicsÃ‚Â " label="Molecular_graphicsÃ‚Â ">
+        <attvalues>
+          <attvalue for="frequency" value="4"></attvalue>
+          <attvalue for="type" value="; genre"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-172.16447" y="-374.88675" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Cytoscape" label="Cytoscape">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="368.64993" y="185.14294" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="CellCognition" label="CellCognition">
+        <attvalues>
+          <attvalue for="frequency" value="4"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="303.33673" y="279.58453" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="ArcView GIS 3.x" label="ArcView GIS 3.x">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="172.16447" y="374.88675" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Elgg" label="Elgg">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="403.51486" y="85.76973" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Shogun machine learning toolbox" label="Shogun machine learning toolbox">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-412.4179" y="9.5991335" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="GNU Data Language" label="GNU Data Language">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="405.40137" y="-76.35714" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Mathematica" label="Mathematica">
+        <attvalues>
+          <attvalue for="frequency" value="6"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-71.63502" y="-406.26236" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Voreen" label="Voreen">
+        <attvalues>
+          <attvalue for="frequency" value="4"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-214.52205" y="352.36484" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Orange" label="Orange">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-316.01602" y="-265.1689" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="CrimeAnalyst" label="CrimeAnalyst">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="359.63687" y="202.09401" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Kosmo" label="Kosmo">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="99.79995" y="-400.27573" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="MapWindow GIS" label="MapWindow GIS">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-23.986464" y="-411.83167" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Microsoft Bob" label="Microsoft Bob">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-136.57347" y="-389.26645" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="JasPer" label="JasPer">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="154.53632" y="-382.49078" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="XLfit" label="XLfit">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-136.57347" y="389.26645" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="KPP" label="KPP">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="127.47866" y="-392.339" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="ConcourseConnect" label="ConcourseConnect">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="349.84494" y="218.60739" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="SPEED2000" label="SPEED2000">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-403.51486" y="-85.76973" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="KEEL" label="KEEL">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="136.57347" y="-389.26645" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="ArcInfo" label="ArcInfo">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="136.57347" y="389.26645" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Kimeme" label="Kimeme">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="109.08692" y="-397.8451" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="ERDAS IMAGINE" label="ERDAS IMAGINE">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="396.54892" y="113.70857" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="FreeMat" label="FreeMat">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="409.74023" y="-47.891766" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Scicos" label="Scicos">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-409.74023" y="-47.891766" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Virtual_globeÃ‚Â " label="Virtual_globeÃ‚Â ">
+        <attvalues>
+          <attvalue for="frequency" value="24"></attvalue>
+          <attvalue for="type" value="; genre"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-261.47403" y="319.07993" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="GEGL" label="GEGL">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="407.06836" y="-66.9032" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="ImageJ" label="ImageJ">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="261.47403" y="-319.07993" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="GraphStream" label="GraphStream">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="354.837" y="-210.40767" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id=":Scientific_workflow_managementÃ‚Â " label=":Scientific_workflow_managementÃ‚Â ">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="; genre"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="23.986464" y="411.83167" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="SAGA" label="SAGA">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-399.08743" y="-104.45051" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="MapInfo Professional" label="MapInfo Professional">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-14.397076" y="-412.27832" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="ShelXle" label="ShelXle">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-412.5296" y="7.8332013E-13" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="ArcMap" label="ArcMap">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="145.59431" y="385.98312" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="GRASS GIS" label="GRASS GIS">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="396.54892" y="-113.70857" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="Telligent Community" label="Telligent Community">
+        <attvalues>
+          <attvalue for="frequency" value="2"></attvalue>
+          <attvalue for="type" value="name"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-349.84494" y="218.60739" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="126" source="Waffles" target="Machine_learningÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="77" source="ModelCenter" target="List_of_numerical_analysis_softwareÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="66" source="TNTmips" target="Geographic_information_systemÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="181" source="VMD" target="Molecular_modellingÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="206" source="TOMVIEW" target="List_of_numerical_analysis_softwareÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="35" source="UCSF Chimera" target="Molecular_modellingÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="17" source="dnAnalytics" target="List_of_numerical_analysis_softwareÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="247" source="ILWIS" target="Geographic_information_systemÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="117" source="Uplay" target="Social_networking_serviceÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="44" source="Kakadu" target="Graphics_softwareÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="228" source="OpenSim" target="List_of_numerical_analysis_softwareÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="261" source="OpenBabel" target="Molecular_modellingÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="213" source="deegree" target="Geographic_information_systemÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="130" source="Information_visualizationÃ‚Â " target="Analytica" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="230" source="Information_visualizationÃ‚Â " target="Chematica" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="69" source="wxFormBuilder" target="Graphical_user_interface_builderÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="107" source="The Grid Analysis and Display System" target="Scientific_visualizationÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="31" source="mlpy" target="Machine_learningÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="1" source="TeraChem" target="Molecular_modellingÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="8" source="Molecular_modellingÃ‚Â " target="Gabedit" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="171" source="Molecular_modellingÃ‚Â " target="JOELib" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="161" source="Molecular_modellingÃ‚Â " target="LIGPLOT" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="166" source="Molecular_modellingÃ‚Â " target="Jmol" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="52" source="Molecular_modellingÃ‚Â " target="Chemistry Development Kit" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="134" source="Molecular_modellingÃ‚Â " target="ICM-Browser" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="216" source="Molecular_modellingÃ‚Â " target="Coot" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="184" source="Molecular_modellingÃ‚Â " target="CoNTub" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="203" source="Molecular_modellingÃ‚Â " target="MAGMA" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="124" source="MeVisLab" target="Image_processingÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="200" source="TransModeler" target="Geographic_information_systemÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="142" source="SOFA software libraries" target="List_of_numerical_analysis_softwareÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="30" source="Medical_imagingÃ‚Â " target="MeVisLab" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="86" source="Interactive_visualizationÃ‚Â " target="InstantAtlas" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="4" source="Interactive_visualizationÃ‚Â " target="Ambivu 3D Workstation" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="11" source="Interactive_visualizationÃ‚Â " target="Drishti" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="212" source="NumPy" target="List_of_numerical_analysis_softwareÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="208" source="NETCAD" target="Geographic_information_systemÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="218" source="Quantum GIS" target="Geographic_information_systemÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="250" source="PCPaint" target="Graphics_softwareÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="84" source="ilastik" target="Machine_learningÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="209" source="ilastik" target="Image_processingÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="131" source="VisIt" target="Interactive_visualizationÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="153" source="VisIt" target="Scientific_visualizationÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="46" source="Social_networking_serviceÃ‚Â " target="FaceTime for iOS" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="221" source="Social_networking_serviceÃ‚Â " target="OpenFeint/ Gree" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="257" source="Social_networking_serviceÃ‚Â " target="FaceTime for Mac" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="195" source="Social_networking_serviceÃ‚Â " target="Rockstar Games Social Club" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="114" source="Social_networking_serviceÃ‚Â " target="Diaspora" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="201" source="Social_networking_serviceÃ‚Â " target="SocialEngine" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="138" source="Social_networking_serviceÃ‚Â " target="Origin" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="214" source="Social_networking_serviceÃ‚Â " target="Meetro" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="235" source="Social_networking_serviceÃ‚Â " target="BuddyPress" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="110" source="Social_networking_serviceÃ‚Â " target="OpenXLive" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="64" source="Social_networking_serviceÃ‚Â " target="Snapchat" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="36" source="Social_networking_serviceÃ‚Â " target="Bump" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="63" source="Social_networking_serviceÃ‚Â " target="Friendica" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="259" source="Social_networking_serviceÃ‚Â " target="Elgg" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="10" source="Social_networking_serviceÃ‚Â " target="ConcourseConnect" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="151" source="Steam" target="Social_networking_serviceÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="242" source="Microsoft Picture It" target="Graphics_softwareÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="76" source="Maptitude for the Web" target="Geographic_information_systemÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="148" source="TeleCAD-GIS" target="Geographic_information_systemÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="150" source="Geographic_information_systemÃ‚Â " target="CrimeView" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="118" source="Geographic_information_systemÃ‚Â " target="GeoMedia" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="202" source="Geographic_information_systemÃ‚Â " target="ArcEditor" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="34" source="Geographic_information_systemÃ‚Â " target="GeoNetwork opensource" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="129" source="Geographic_information_systemÃ‚Â " target="FastMall" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="18" source="Geographic_information_systemÃ‚Â " target="CAPAWARE" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="57" source="Geographic_information_systemÃ‚Â " target="CitySurf Globe" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="158" source="Geographic_information_systemÃ‚Â " target="ArcGIS" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="149" source="Geographic_information_systemÃ‚Â " target="Feature Analyst" weight="4.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="204" source="Geographic_information_systemÃ‚Â " target="FalconView" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="231" source="Geographic_information_systemÃ‚Â " target="ArcIMS" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="244" source="Geographic_information_systemÃ‚Â " target="ArcSDE" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="198" source="Geographic_information_systemÃ‚Â " target="ArcView" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="139" source="Geographic_information_systemÃ‚Â " target="GeoServer" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="264" source="Geographic_information_systemÃ‚Â " target="ArcView GIS 3.x" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="120" source="Geographic_information_systemÃ‚Â " target="CrimeAnalyst" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="188" source="Geographic_information_systemÃ‚Â " target="ArcInfo" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="58" source="Geographic_information_systemÃ‚Â " target="ERDAS IMAGINE" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="29" source="Geographic_information_systemÃ‚Â " target="ArcMap" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="180" source="Geographic_information_systemÃ‚Â " target="GRASS GIS" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="45" source="MapDotNet" target="Geographic_information_systemÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="62" source="Speakeasy" target="List_of_numerical_analysis_softwareÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="157" source="Telligent Analytics" target="Social_networking_serviceÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="175" source="Mapbender" target="Geographic_information_systemÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="81" source="OpenJPEG" target="Graphics_softwareÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="255" source="NOCH" target="Molecular_modellingÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="97" source="JOSM" target="Geographic_information_systemÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="207" source="Seismic Unix" target="List_of_numerical_analysis_softwareÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="111" source="TabWorks" target="Graphical_user_interfaceÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="108" source="MATLAB" target="List_of_numerical_analysis_softwareÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="172" source="Stewpa" target=":Social_network_aggregationÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="186" source="SciPy" target="List_of_numerical_analysis_softwareÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="215" source="Graphical_user_interfaceÃ‚Â " target="DeskMate" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="265" source="Graphical_user_interfaceÃ‚Â " target="AutoIt" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="6" source="Graphical_user_interfaceÃ‚Â " target="AMESim" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="128" source="Graphical_user_interfaceÃ‚Â " target="Calligra Suite" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="224" source="Graphical_user_interfaceÃ‚Â " target="Analytica" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="252" source="Graphical_user_interfaceÃ‚Â " target="CEGUI" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="50" source="Graphical_user_interfaceÃ‚Â " target="Chematica" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="15" source="Graphical_user_interfaceÃ‚Â " target="FireMonkey" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="37" source="Graphical_user_interfaceÃ‚Â " target="AutoHotkey" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="87" source="Teradata Geospatial" target="Geographic_information_systemÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="163" source="Microsoft MapPoint" target="Geographic_information_systemÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="210" source="wxGlade" target="Graphical_user_interface_builderÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="56" source="JMP" target="Information_visualizationÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="173" source="SpatiaLite" target="Geographic_information_systemÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="25" source="OpenEV" target="Geographic_information_systemÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="83" source="STK" target="List_of_numerical_analysis_softwareÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="42" source="Tent" target="Social_networking_serviceÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="82" source="RasMol" target="Molecular_graphicsÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="68" source="Sqirlz Morph" target="Graphics_softwareÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="258" source="Machine_learningÃ‚Â " target="Apache Mahout" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="2" source="Machine_learningÃ‚Â " target="Feature Selection Toolbox" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="67" source="Machine_learningÃ‚Â " target="MALLET" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="78" source="Machine_learningÃ‚Â " target="CellCognition" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="159" source="Machine_learningÃ‚Â " target="KEEL" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="237" source="OpenImageIO" target="Graphics_softwareÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="156" source="PyMOL" target="Molecular_modellingÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="59" source="Image_processingÃ‚Â " target="Endrov" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="89" source="Image_processingÃ‚Â " target="CoLocalizer Pro" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="23" source="Image_processingÃ‚Â " target="Fiji Is Just ImageJ" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="236" source="Image_processingÃ‚Â " target="Image SXM" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="222" source="Image_processingÃ‚Â " target="CellProfiler" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="256" source="Image_processingÃ‚Â " target="Cytoscape" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="99" source="Image_processingÃ‚Â " target="CellCognition" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="51" source="Image_processingÃ‚Â " target="GEGL" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="91" source="Image_processingÃ‚Â " target="ImageJ" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="227" source="jLab" target="List_of_numerical_analysis_softwareÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="12" source="VisTrails" target="Scientific_visualizationÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="199" source="VisTrails" target=":Scientific_workflow_managementÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="254" source="Maptitude" target="Geographic_information_systemÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="22" source="TOMLAB" target="List_of_numerical_analysis_softwareÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="33" source="List_of_numerical_analysis_softwareÃ‚Â " target="APMonitor" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="168" source="List_of_numerical_analysis_softwareÃ‚Â " target="FortMP" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="185" source="List_of_numerical_analysis_softwareÃ‚Â " target="EICASLAB" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="143" source="List_of_numerical_analysis_softwareÃ‚Â " target="GNU Octave" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="49" source="List_of_numerical_analysis_softwareÃ‚Â " target="Holsys One" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="79" source="List_of_numerical_analysis_softwareÃ‚Â " target="ALGLIB" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="223" source="List_of_numerical_analysis_softwareÃ‚Â " target="AutoChem" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="88" source="List_of_numerical_analysis_softwareÃ‚Â " target="ILNumerics.Net" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="53" source="List_of_numerical_analysis_softwareÃ‚Â " target="FEBio" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="102" source="List_of_numerical_analysis_softwareÃ‚Â " target="GNU Scientific Library" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="197" source="List_of_numerical_analysis_softwareÃ‚Â " target="E-Z Solve" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="162" source="List_of_numerical_analysis_softwareÃ‚Â " target="Analytica" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="122" source="List_of_numerical_analysis_softwareÃ‚Â " target="ASTOS" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="71" source="List_of_numerical_analysis_softwareÃ‚Â " target="FortSP" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="72" source="List_of_numerical_analysis_softwareÃ‚Â " target="Jacket" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="190" source="List_of_numerical_analysis_softwareÃ‚Â " target="CPLEX" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="103" source="List_of_numerical_analysis_softwareÃ‚Â " target="Genius" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="194" source="List_of_numerical_analysis_softwareÃ‚Â " target="Chematica" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="38" source="List_of_numerical_analysis_softwareÃ‚Â " target="CERN Program Library" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="141" source="List_of_numerical_analysis_softwareÃ‚Â " target="IGOR Pro" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="13" source="List_of_numerical_analysis_softwareÃ‚Â " target="GNU Data Language" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="101" source="List_of_numerical_analysis_softwareÃ‚Â " target="KPP" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="154" source="List_of_numerical_analysis_softwareÃ‚Â " target="Kimeme" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="246" source="List_of_numerical_analysis_softwareÃ‚Â " target="FreeMat" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="48" source="Origin" target="List_of_numerical_analysis_softwareÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="24" source="XML User Interface" target="Graphical_user_interfaceÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="98" source="Site Recorder" target="Geographic_information_systemÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="187" source="VTK" target="Scientific_visualizationÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="105" source="Sirius" target="Molecular_modellingÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="80" source="OptiY" target="List_of_numerical_analysis_softwareÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="9" source="RegioGraph" target="Geographic_information_systemÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="55" source="Weka" target="Machine_learningÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="160" source="Packard Bell Navigator" target="Graphical_user_interfaceÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="178" source="J2K-Codec" target="Graphics_softwareÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="239" source="TomSym" target="List_of_numerical_analysis_softwareÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="196" source="Visualization" target="Tulip" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="183" source="Visualization" target="Gephi" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="263" source="Visualization" target="Meurs Challenger" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="219" source="Visualization" target="LaNet-vi" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="248" source="Wireclub" target="Social_networking_serviceÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="41" source="ScicosLab" target="List_of_numerical_analysis_softwareÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="QuantLib" target="List_of_numerical_analysis_softwareÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="132" source="Windows Live Spaces" target="Social_networking_serviceÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="19" source="Vowpal Wabbit" target="Machine_learningÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="240" source="WP Symposium" target="Social_networking_serviceÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="192" source="Image_analysisÃ‚Â " target="Endrov" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="96" source="Image_analysisÃ‚Â " target="Fiji Is Just ImageJ" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="61" source="Image_analysisÃ‚Â " target="CellProfiler" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="133" source="SmartDO" target="List_of_numerical_analysis_softwareÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="135" source="STARMAD" target="List_of_numerical_analysis_softwareÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="116" source="Piranesi" target="Graphics_softwareÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="47" source="PicMaster" target="Graphics_softwareÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="127" source="InstantAtlas" target="Data_visualizationÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="217" source="Sumo.fm" target="Graphics_softwareÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="262" source="Scientific_visualizationÃ‚Â " target="MeVisLab" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="90" source="Scientific_visualizationÃ‚Â " target="Mayavi" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="140" source="Scientific_visualizationÃ‚Â " target="Drishti" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="164" source="Scientific_visualizationÃ‚Â " target="ParaView" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="73" source="IDRISI GIS and Image Processing" target="Geographic_information_systemÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="241" source="MapBasic" target="Geographic_information_systemÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="137" source="Optimus" target="List_of_numerical_analysis_softwareÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="147" source="Pattern_recognitionÃ‚Â " target="Feature Selection Toolbox" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="95" source="QuteMol" target="Molecular_graphicsÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="229" source="uDig" target="Geographic_information_systemÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="205" source="Molekel" target="Molecular_modellingÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="245" source="Volume_renderingÃ‚Â " target="MeVisLab" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="220" source="Volume_renderingÃ‚Â " target="ImageVis3D" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="93" source="Volume_renderingÃ‚Â " target="ImageVis3D Mobile" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="169" source="Volume_renderingÃ‚Â " target="Ambivu 3D Workstation" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="112" source="Potlatch" target="Geographic_information_systemÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="100" source="Manga Studio" target="Graphics_softwareÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="226" source="MeshLab" target="Graphics_softwareÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="251" source="Visualization_softwareÃ‚Â " target="Grapheur" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="28" source="Visualization_softwareÃ‚Â " target="Macrofocus TreeMap" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="179" source="Graphics_softwareÃ‚Â " target="CloudCompare" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="32" source="Graphics_softwareÃ‚Â " target="Barco Creator" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="43" source="Graphics_softwareÃ‚Â " target="AutoCollage 2008" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="121" source="Graphics_softwareÃ‚Â " target="GraphicsMagick" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="74" source="Graphics_softwareÃ‚Â " target="GRASP" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="238" source="Graphics_softwareÃ‚Â " target="EnterNetica VolumePhoto SE" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="233" source="Graphics_softwareÃ‚Â " target="GraphicConverter" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="106" source="Vidalia" target="Graphical_user_interfaceÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="211" source="RemoteView" target="Geographic_information_systemÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="104" source="XDrawChem" target="Molecule_editorÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="54" source="gvSIG" target="Geographic_information_systemÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="136" source="TOMNET" target="List_of_numerical_analysis_softwareÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="20" source="PROPT" target="List_of_numerical_analysis_softwareÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="3" source="face2face" target="Social_networking_serviceÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="167" source="Graphviz" target="Graph Visualization" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="152" source="PostGIS" target="Geographic_information_systemÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="177" source="modeFRONTIER" target="List_of_numerical_analysis_softwareÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="165" source="Whitebox GAT" target="Geographic_information_systemÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="155" source="GloNET" target="Geographic_information_systemÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="191" source="Stykz" target="Graphics_softwareÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="60" source="Social Network Analysis" target="NetMiner" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="249" source="Sysquake" target="List_of_numerical_analysis_softwareÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="182" source="Scilab" target="List_of_numerical_analysis_softwareÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="266" source="baudline" target="List_of_numerical_analysis_softwareÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="94" source="ParaView" target="Interactive_visualizationÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="scikit-learn" target="Machine_learningÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="5" source="Shogun machine learning toolbox" target="Machine_learningÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="92" source="Mathematica" target="Information_visualizationÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="85" source="Mathematica" target="Graphical_user_interfaceÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="39" source="Mathematica" target="List_of_numerical_analysis_softwareÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="193" source="Voreen" target="Interactive_visualizationÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="174" source="Voreen" target="Volume_renderingÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="21" source="Orange" target="Machine_learningÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="7" source="Kosmo" target="Geographic_information_systemÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="123" source="MapWindow GIS" target="Geographic_information_systemÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="115" source="Microsoft Bob" target="Graphical_user_interfaceÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="119" source="JasPer" target="Graphics_softwareÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="146" source="XLfit" target="List_of_numerical_analysis_softwareÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="145" source="SPEED2000" target="List_of_numerical_analysis_softwareÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="253" source="Scicos" target="List_of_numerical_analysis_softwareÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="243" source="Virtual_globeÃ‚Â " target="Biosphere3D" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="225" source="Virtual_globeÃ‚Â " target="Bing Maps Platform" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="26" source="Virtual_globeÃ‚Â " target="Bhuvan" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="144" source="Virtual_globeÃ‚Â " target="Google Earth" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="109" source="Virtual_globeÃ‚Â " target="Bing Maps" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="170" source="Virtual_globeÃ‚Â " target="Marble" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="65" source="Virtual_globeÃ‚Â " target="EarthBrowser" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="14" source="Virtual_globeÃ‚Â " target="3D World Atlas">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="125" source="Virtual_globeÃ‚Â " target="NASA World Wind" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="27" source="Virtual_globeÃ‚Â " target="OpenWebGlobe SDK" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="113" source="Virtual_globeÃ‚Â " target="TerraFly" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="70" source="Virtual_globeÃ‚Â " target="Earth3D" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="16" source="Virtual_globeÃ‚Â " target="3D World Altals">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="232" source="GraphStream" target="Dynamic Graph Library" weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="189" source="SAGA" target="Geographic_information_systemÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="40" source="MapInfo Professional" target="Geographic_information_systemÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="75" source="ShelXle" target="Molecular_modellingÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="260" source="Telligent Community" target="Social_networking_serviceÃ‚Â " weight="2.0">
+        <attvalues></attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
