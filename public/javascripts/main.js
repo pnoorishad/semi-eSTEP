@@ -13,6 +13,8 @@ $(document).ready(function(){
   var width = 1024,
   height = 768;
 
+  $("#canvas").width(width);
+
   var color = d3.scale.category20();
 
   makeNetwork = function() {
