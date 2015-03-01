@@ -62,7 +62,7 @@ $(document).ready(function(){
 
         if (!(myMap.has(key))) {
           console.log("new key! " + key);
-          var new_node = {name: key, weight: 1, row: rows[i]};
+          var new_node = {name: key, weight: 1};
           json.nodes.push(new_node); // here we can give another key-value
           myMap.set(key, new_node);
           json.links.push({source:new_node, target: root_node, value: 1})
@@ -97,9 +97,13 @@ $(document).ready(function(){
 
     node.on("click", function(d){
       console.log("d", d);
-      console.log("d3.select(d3.event.target).datum", d3.select(d3.event.target).datum );
-      console.log("d3.event.target", d3.event.target);
-      console.dir(d3.select(d3.event.target).select("title"));
+      var html = _.reduce(d, function(result, key, value) {
+        if (_(["wikilink", "website"]).contains(value)) {
+          key = "<a href='" + key + "'>" + key + "</a>";
+        }
+        return result + "<dt>" + value + "</dt>" + "<dd>" + key + "</dd>"
+      }, "");
+      $("#information .nodeattributes").html("<dl>" + html + "</dl>");
     });
 
     node.append("title")

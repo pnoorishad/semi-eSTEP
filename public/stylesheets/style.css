@@ -27,6 +27,11 @@ a {
   padding: 18px 18px 18px 18px;
 }
 
+#navigation img {
+  display: block;
+  margin-bottom: 5px;
+}
+
 #legend dd {
 margin-bottom: 8px;
 color: #000;
@@ -250,35 +255,40 @@ color: #000;
   width: 240px;
   background-color: rgba(255,255,255,0.8);
   border-left: 1px solid #ccc;
-  padding: 18px 18px 0px 18px;
+  padding: 0px 18px 0px 18px;
   z-index: 5;
   height: 100%;
 }
 
 #information .appearance {
-	height:100%;
+  margin-top: 18px;
 }
 
 #attributepane {
   display: block;
-	display: none;
-  position:absolute;
+  height: 85%;
+  /*position:absolute;
   height:auto;
   bottom:0;
   top:0;
   right:0;
-	width: 240px;
-	background-color: #fff;
-	margin: 0;
+	width: 240px;*/
 	word-wrap: break-word;
-	background-color:rgba(255,255,255,0.8);
-	border-left: 1px solid #ccc;
-	padding: 0px 18px 0px 18px;
-	z-index: 10;
+}
+/*#attributepane dd:after {
+  content: ".";
+  width: 0px;
+  visibility: hidden;
+  display: block;
+}*/
+#attributepane dt {
+  /*display: inline;*/
+  font-weight: bold;
 }
 
-#attributepane .text {
-	height:100%;
+#attributepane dd {
+  margin: 0px;
+  margin-bottom: 1em;
 }
 
 #attributepane .headertext {
@@ -338,7 +348,7 @@ float: left;
 	height:85%;
 	overflow-y: scroll;
 	overflow-x: hidden;
-	border-bottom:1px solid #999;
+	/*border-bottom:1px solid #999;*/
 }
 
 #attributepane .name {
