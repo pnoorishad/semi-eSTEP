@@ -7,9 +7,9 @@
     <title> NLeSC Patty Knowledge-base </title>
     <script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
     <script src="http://d3js.org/d3.v3.js"></script>
-    <script src="lodash.js"></script>
-    <script src="javascripts/main.js"></script>
-    <script src="javascripts/test.js"></script>
+    <script src="lodash.js" type="text/javascript" language="javascript"></script>
+    <script src="javascripts/main.js" type="text/javascript" language="javascript"></script>
+
   </head>
   <body>
     <div id="navigation">
@@ -35,10 +35,10 @@
         <div id="search" class="cf"><h3>Search:</h3>
           <input type="text" name="search" value="Search by name" class="empty"/>
           <select id="queryCriterion" onchange="queryhelper()">
-            <option>genre</option>
-            <option>license</option>
-            <option>OS-platform</option>
-            <option>programming language</option>
+            <option value="genre">genre</option>
+            <option value="license">license</option>
+            <option value="operatingSystem">OS-platform</option>
+            <option value="programmingLanguage">programming language</option>
           </select>
         </div>
       </form>
