@@ -94,12 +94,14 @@ $(document).ready(function(){
         .enter().append("circle")
         .attr("class", "node")
         .attr("r", 5)
-        .style("fill", function(d) { return color(d.genre); })
+        .style("fill", function(d) { return color(d.category); })
         .call(force.drag);
 
     node.on("click", function(d){
       console.log("d", d);
-      var html = _.reduce(d, function(result, key, value) {
+      var dummy = _.omit(d,["weight", "index", "x", "y", "px", "py", "fixed"]);
+      console.log("dummy", dummy);
+      var html = _.reduce(dummy, function(result, key, value) {
         if (_(["wikilink", "website"]).contains(value)) {
           key = "<a href='" + key + "'>" + key + "</a>";
         }
@@ -124,14 +126,17 @@ $(document).ready(function(){
     });
   }
 
-  d3.csv("/data/VisualizationToolsTest2.csv", function(d) {
+  d3.csv("/data/eSTEP_PattyUseCase.csv", function(d) {
     return {
       name: d.name,
       genre: d.genre,
+      category: d.category,
       comment: d.comment,
       operatingSystem: d.operatingSystem,
       programmingLanguage: d.programmingLanguage,
       license: d.license,
+      applicability: d.applicability,
+      developedBy: d.developedBy,
       website: d.website,
       wikilink: d.wikilink,
       weight: 1
