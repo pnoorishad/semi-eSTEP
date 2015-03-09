@@ -9,6 +9,8 @@ var svg;
 
 var force;
 
+var eTech;
+
 $(document).ready(function(){
   var width = 1024,
   height = 768;
@@ -36,7 +38,7 @@ $(document).ready(function(){
 
     force = d3.layout.force()
         .charge(-120)
-        .linkDistance(30)
+        .linkDistance(50)
         .size([width, height]);
 
     var rows = data;
@@ -83,19 +85,26 @@ $(document).ready(function(){
         .nodes(json.nodes)
         .links(json.links)
         .start();
+
     var link = svg.selectAll(".link")
         .data(links)
         .enter().append("line")// "path" and curved
         .attr("class", "link")
         .style("stroke-width", function(d) { return Math.sqrt(d.value); });
 
-    var node = svg.selectAll(".node")
+    var enterNode = svg.selectAll("circle")
         .data(json.nodes)
         .enter().append("circle")
-        .attr("class", "node")
-        .attr("r", 5)
+        .attr("id", function(d){
+              return d.name;
+         });
+
+   var node =  svg.selectAll("circle")
+        .attr("r", 4.5)
         .style("fill", function(d) { return color(d.category); })
+        .style("stroke", "#808080") // the black curcumface
         .call(force.drag);
+
 
     node.on("click", function(d){
       console.log("d", d);
@@ -110,8 +119,8 @@ $(document).ready(function(){
       $("#information .nodeattributes").html("<dl>" + html + "</dl>");
     });
 
-    node.append("title")
-        .text(function(d) { return d.name; });
+    var lable = node.append("title")
+          .text(function(d) { return d.name; });
 
     force.on("tick", function() {
       link.attr("x1", function(d) { return d.source.x; })
@@ -124,7 +133,8 @@ $(document).ready(function(){
 
     // document.getElementById(".node").onmouseover = function() {mouseOver()};
     });
-  }
+
+  }// this is end of makeNetwork definition.
 
   d3.csv("/data/eSTEP_PattyUseCase.csv", function(d) {
     return {
@@ -157,3 +167,13 @@ function queryhelper() {
     makeNetwork();
     return x.value;
 };
+
+function search_eTech(){
+    var circleID = document.getElementById("userInput").value;
+    var theNode = d3.select("#" + circleID);
+    console.log(theNode);
+    theNode.attr("r", 20); // this should be on
+    // console.log(theNode.select("title"));
+    // console.log(theNode.select("title").text());
+    // theNode.select("title")[0].value="Test";
+}

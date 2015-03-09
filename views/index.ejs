@@ -33,7 +33,9 @@
       <div class="b1">
       <form>
         <div id="search" class="cf"><h3>Search:</h3>
-          <input type="text" name="search" value="Search by name" class="empty"/>
+
+          <input id = "userInput" type="text" name="search" placeholder="Search by eTech. name" class="empty"/><div class="state" onclick="search_eTech()"></div>
+
           <select id="queryCriterion" onchange="queryhelper()">
             <option value="genre">genre</option>
             <option value="license">license</option>
@@ -43,6 +45,7 @@
             <option value="category">eTech. category</option>
             <option value="developedBy">developed by</option>
           </select>
+
         </div>
       </form>
       </div>
